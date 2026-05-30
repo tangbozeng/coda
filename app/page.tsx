@@ -21,7 +21,7 @@ export default function Home() {
       <div className="mb-12">
         <h1 className="text-3xl font-semibold mb-3" style={{ fontFamily: 'sans-serif' }}>Coda</h1>
         <p style={{ color: 'var(--muted)', fontFamily: 'sans-serif', fontSize: '0.95rem' }}>
-          独立视角，解读中国与世界的交叉地带。
+          独立视角，解读中国与世界的交叉地带。联合早报玻璃心。
           <br />
           <span className="text-sm">Independent commentary on China, power, and the world.</span>
         </p>
