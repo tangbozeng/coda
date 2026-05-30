@@ -21,9 +21,9 @@ export default function Home() {
       <div className="mb-12">
         <h1 className="text-3xl font-semibold mb-3" style={{ fontFamily: 'sans-serif' }}>Coda</h1>
         <p style={{ color: 'var(--muted)', fontFamily: 'sans-serif', fontSize: '0.95rem' }}>
-          每周时事评论，关注中国、新加坡与欧洲的交汇地带。
+          独立视角，解读中国与世界的交叉地带。
           <br />
-          <span className="text-sm">Weekly commentary at the intersection of China, Singapore, and Europe.</span>
+          <span className="text-sm">Independent commentary on China, power, and the world.</span>
         </p>
       </div>
 
